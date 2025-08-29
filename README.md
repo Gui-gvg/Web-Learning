@@ -36,6 +36,6 @@ Análise de instâncias EC2 e recomendações de redimensionamento com base no u
 ## Conclusão:
 A implementação dessas ferramenta de *finops na empresa Abstergo tem como objetivo a aplicação de realizar um controle de custos inteligente e adaptativo de modo a reduzir gastos não eficientes na utilização de serviços de nuvem por esta empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
-##Anexos:
+## Anexos:
 
 Em adição ao material, coloquei um pequeno guia para guiá-los no entendimento de alguns conceitos avaliados. https://aws.amazon.com/pt/blogs/aws-brasil/entendendo-seus-conjuntos-de-dados-de-custos-na-aws-um-cheat-sheet/
